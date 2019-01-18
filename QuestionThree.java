@@ -1,4 +1,3 @@
-package lab1JavaChallenge;
 import java.util.Scanner;
 
 public class QuestionThree {

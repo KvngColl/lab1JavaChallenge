@@ -1,9 +1,4 @@
 /**
- * 
- */
-package lab1JavaChallenge;
-
-/**
  * @author Collins and Emeka
  *
  */
